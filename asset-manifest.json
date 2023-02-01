@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AShamshin/dz1.git/static/css/main.b463b0e6.css",
-    "main.js": "/AShamshin/dz1.git/static/js/main.5c7c9a7b.js",
-    "static/js/787.66cb4309.chunk.js": "/AShamshin/dz1.git/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/AShamshin/dz1.git/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/AShamshin/dz1.git/index.html",
-    "main.b463b0e6.css.map": "/AShamshin/dz1.git/static/css/main.b463b0e6.css.map",
-    "main.5c7c9a7b.js.map": "/AShamshin/dz1.git/static/js/main.5c7c9a7b.js.map",
-    "787.66cb4309.chunk.js.map": "/AShamshin/dz1.git/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/dz1/static/css/main.b463b0e6.css",
+    "main.js": "/dz1/static/js/main.eb160022.js",
+    "static/js/787.66cb4309.chunk.js": "/dz1/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/dz1/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/dz1/index.html",
+    "main.b463b0e6.css.map": "/dz1/static/css/main.b463b0e6.css.map",
+    "main.eb160022.js.map": "/dz1/static/js/main.eb160022.js.map",
+    "787.66cb4309.chunk.js.map": "/dz1/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b463b0e6.css",
-    "static/js/main.5c7c9a7b.js"
+    "static/js/main.eb160022.js"
   ]
 }
