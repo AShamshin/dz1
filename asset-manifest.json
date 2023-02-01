@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AShamshin/dz1.git/static/css/main.b463b0e6.css",
+    "main.js": "/AShamshin/dz1.git/static/js/main.5c7c9a7b.js",
+    "static/js/787.66cb4309.chunk.js": "/AShamshin/dz1.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/AShamshin/dz1.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/AShamshin/dz1.git/index.html",
+    "main.b463b0e6.css.map": "/AShamshin/dz1.git/static/css/main.b463b0e6.css.map",
+    "main.5c7c9a7b.js.map": "/AShamshin/dz1.git/static/js/main.5c7c9a7b.js.map",
+    "787.66cb4309.chunk.js.map": "/AShamshin/dz1.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b463b0e6.css",
+    "static/js/main.5c7c9a7b.js"
+  ]
+}
